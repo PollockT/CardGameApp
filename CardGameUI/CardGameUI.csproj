@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\BlackJack.cs" />
+    <Compile Include="Class\DeckClass.cs" />
     <Compile Include="Enums\ECardSuit.cs" />
     <Compile Include="Enums\ECardValue.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Class\PlayingCardClass.cs" />
+    <Compile Include="Class\PokerDeck.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
